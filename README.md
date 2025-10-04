@@ -1,24 +1,10 @@
-# Simple Calculator
+#  Statisticians – Python Calculators
 
-A beginner-friendly Python program that performs basic arithmetic operations: **Addition, Subtraction, Multiplication, and Division**.  
-This project is a simple command-line calculator designed to demonstrate conditional statements, user input handling, and formatted output in Python.
+This repository contains two Python-based calculator projects:
 
----
-
-##  Features
-- Interactive menu with four operations:
-  1. Addition  
-  2. Subtraction  
-  3. Multiplication  
-  4. Division  
-- Accepts two numbers from the user.  
-- Performs the chosen operation and displays the result.  
-- Handles invalid menu selections gracefully.  
+1. **Simple Calculator** – a beginner-friendly program that demonstrates the basics of user input, conditional logic, and arithmetic operations.  
+2. **Calculator Agent** – a more advanced, AI-inspired command-line agent that can interpret natural text commands, perform safe math evaluation, convert units, compute statistics, and even generate CSV files.
 
 ---
 
-##  How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/TONNY-01/Statisticians.git
-   cd Statisticians
+
